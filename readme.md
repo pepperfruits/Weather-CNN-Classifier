@@ -45,6 +45,10 @@ Train a lightweight Convolutional Neural Network (CNN) that recognises common we
 
 ## Results Snapshot
 
+![Training Curves](https://github.com/pepperfruits/Weather-CNN-Classifier/blob/main/Saved%20Models/training_curves.png)
+
+![Confusion Matrix](https://github.com/pepperfruits/Weather-CNN-Classifier/blob/main/Saved%20Models/confusion_matrix.png)
+
 ---
 
 ## Customisation Notes

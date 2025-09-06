@@ -2,7 +2,7 @@
 
 Train a lightweight Convolutional Neural Network (CNN) that recognises common weather conditions from images.
 
-*Five classes →* **cloudy · fog/smog · rain · snow · sunny**
+*Five classes:* **cloudy · fog/smog · rain · snow · sunny**
 
 ---
 
@@ -64,23 +64,13 @@ Train a lightweight Convolutional Neural Network (CNN) that recognises common we
 
 - **Images are *****not***** supplied.** You must collect or generate your own training set and place it under **Training Data/**.
 - Any third‑party images you use remain the property of their respective owners. Make sure you have the right to download and process them.
-- Redistribution of such images with this repository is discouraged; keep the folder git‑ignored or host the dataset separately.
-- When deploying or distributing models trained on third‑party data, ensure you respect the original licence terms.
-
----
-
-## License & Data Usage Notice
-
-- Training images in **Training Data/** are **manually collected from public web sources** and remain the property of their respective owners.
-- They are included here purely for **educational and benchmarking** purposes. Redistribution may infringe copyright or the source site’s terms of service.
-- **Recommendation:** add `Training Data/` to `.gitignore` (or move the images to a separate, non‑public storage bucket) before pushing the repository to a public host. Alternatively, replace them with assets that carry a licence that explicitly permits redistribution (e.g. CC BY, CC 0, or your own photos).
-- When deploying or releasing models trained on these images, ensure the end‑use complies with applicable copyright law and any dataset licensing constraints.
+- Redistribution of such images with branches of this repository is discouraged; keep the folder git‑ignored or host the dataset separately.
 
 ---
 
 ## License
 
-Code released under the **MIT License**. The scraped image data is **not** covered by this license.
+Code released under the MIT License. The scraped image data is **not** covered by this license.
 
 ---
 
